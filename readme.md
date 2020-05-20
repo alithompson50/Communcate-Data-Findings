@@ -6,7 +6,7 @@
 
 > The dataset investigated in this analysis was loan data from Prosper. The data constited of 113,937 loans with 81 characteristics. I selected 9 variables to focus on. These variables included lender yield, term, estimated loss, estimated return, propser score, loan original amount, listing category, number of investors, and debt to income ratio. 
 
->The data can be foun here https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv. There is also documentation on the characteristics found here https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0. 
+>The data can be found here https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv. There is also documentation on the characteristics found here https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0. 
 
 ## Summary of Findings
 
